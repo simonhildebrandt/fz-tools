@@ -13,6 +13,12 @@
       "matches": [
         "https://sso.fatzebra.com/*"
       ]
+    },
+    {
+      "css": ["css/slack-cleanup.css"],
+      "matches": [
+        "https://app.slack.com/client/T039EDGHD/*"
+      ]
     }
   ]
 }
