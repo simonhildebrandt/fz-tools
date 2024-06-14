@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "FZ Tools",
+  "description": "Helpers for FZ developers",
+  "version": "1.0",
+  "action": {
+    "default_popup": "default.html",
+    "default_icon": "default_icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/sso-reload.js"],
+      "matches": [
+        "https://sso.fatzebra.com/*"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "fz-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:simonhildebrandt/fz-tools.git",
+  "author": "Simon Hildebrandt <simonhildebrandt@gmail.com>",
+  "license": "MIT"
+}
